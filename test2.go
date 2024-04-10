@@ -7,7 +7,7 @@ import (
 	"strings"
 )
 
-// ข้อนี้ยากจังครับพี่ 🤯🤯🤯🤯🤯🤯
+// ข้อนี้ยากจังครับจัดเลยพี่
 func Decode(txt string) string {
 	arr := strings.Split(txt, "")
 	result := []int{0}
