@@ -1,0 +1,7 @@
+app:
+    name: "7solutions"
+    port: ":80"
+
+adaptor:
+  beef_api:
+      url: "https://baconipsum.com/api/?type=beef-and-filler&paras=99&format=text"
